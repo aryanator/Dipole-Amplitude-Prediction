@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DipoleAmplitudePredictor
+Version: 0.1
+Summary: A package for making predictions for Dipole Amplitude using a pre-trained Random Forest model
+Home-page: https://github.com/aryanator/DipoleAmplitudePredictor
+Author: Aryan Patil
+Author-email: aryansanjay.patil@stonybrook.edu
+Requires-Dist: numpy
+Requires-Dist: scikit-learn

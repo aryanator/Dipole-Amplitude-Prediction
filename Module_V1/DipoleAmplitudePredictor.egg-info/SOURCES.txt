@@ -1,0 +1,8 @@
+setup.py
+DipoleAmplitudePredictor/__init__.py
+DipoleAmplitudePredictor/model.py
+DipoleAmplitudePredictor.egg-info/PKG-INFO
+DipoleAmplitudePredictor.egg-info/SOURCES.txt
+DipoleAmplitudePredictor.egg-info/dependency_links.txt
+DipoleAmplitudePredictor.egg-info/requires.txt
+DipoleAmplitudePredictor.egg-info/top_level.txt
