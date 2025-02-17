@@ -2,6 +2,9 @@
 
 # Dipole Amplitude Predictor
 
+The latest version can be found at: **[DipoleAmplitudeModule](https://github.com/aryanator/DipoleAmplitudeModule)**, which has eased installation!
+
+
 ## Overview
 
 The Dipole Amplitude Predictor module provides a RandomForest-based model for predicting dipole amplitudes. This guide will help you install and use the module effectively.
@@ -103,6 +106,7 @@ Pruned model, trained on whole data. Fairly accurate.
 
 V3: rf_3
 Finetuned large model, trained on whole data. Most accurate.
+
 
 
 ---
