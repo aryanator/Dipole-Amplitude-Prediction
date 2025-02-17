@@ -2,7 +2,7 @@
 
 # Dipole Amplitude Predictor
 
-The latest version can be found at: **[DipoleAmplitudeModule](https://github.com/aryanator/DipoleAmplitudeModule)**, which has eased installation!
+The latest version can be found at: [DipoleAmplitudeModule](https://github.com/aryanator/DipoleAmplitudeModule), which has eased installation!
 
 
 ## Overview
